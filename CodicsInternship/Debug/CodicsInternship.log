@@ -1,0 +1,5 @@
+﻿  Chess.cpp
+c:\users\suzy\source\repos\codicsinternship\chess.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  CodicsInternship.cpp
+  Generating Code...
+  CodicsInternship.vcxproj -> C:\Users\suzy\source\repos\CodicsInternship\Debug\CodicsInternship.exe

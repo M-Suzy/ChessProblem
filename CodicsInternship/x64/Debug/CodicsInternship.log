@@ -1,0 +1,3 @@
+﻿  CodicsInternship.cpp
+c:\users\suzy\source\repos\codicsinternship\codicsinternship.cpp(29): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CodicsInternship.vcxproj -> C:\Users\suzy\source\repos\CodicsInternship\x64\Debug\CodicsInternship.exe
